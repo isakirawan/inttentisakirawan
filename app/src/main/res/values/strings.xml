@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">inttentisakirawan</string>
+    <string name="move_activity">pindah activity</string>
+    <string name="move_with_data">pindah dengan data</string>
+    <string name="move_first_page">pindah halaman utama</string>
+    <string name="dial_number">panggil telepon</string>
+    <string name="move_with_result">pindah activity untuk result</string>
+    <string name="result_from_activity">hasil activity</string>
+    <string name="choose_color">pilih warna</string>
+    <string name="_white">white</string>
+    <string name="_brown">brown</string>
+    <string name="_red">merah</string>
+    <string name="choose">pilih</string>
+    <string name="data_received">data masuk</string>
+    <string name="this_ismove_activity">pindah ke activity</string>
+    <string name="this_ismove_first_page_activity">halaman utama</string>
+</resources>
