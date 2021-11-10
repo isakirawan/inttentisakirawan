@@ -6,10 +6,10 @@
     <string name="dial_number">panggil telepon</string>
     <string name="move_with_result">pindah activity untuk result</string>
     <string name="result_from_activity">hasil activity</string>
-    <string name="choose_color">pilih warna</string>
-    <string name="_white">white</string>
-    <string name="_brown">brown</string>
-    <string name="_red">merah</string>
+    <string name="choose_food">PILIH MAKANAN KESUKAANMU</string>
+    <string name="_pecel">NASI PECEL</string>
+    <string name="_mie">MIE AYAM</string>
+    <string name="_baso">BASO BERANAK</string>
     <string name="choose">pilih</string>
     <string name="data_received">data masuk</string>
     <string name="this_ismove_activity">pindah ke activity</string>
